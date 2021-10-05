@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/transact-react-app/static/css/main.b6b57726.chunk.css",
+    "main.js": "/transact-react-app/static/js/main.9598af3b.chunk.js",
+    "main.js.map": "/transact-react-app/static/js/main.9598af3b.chunk.js.map",
+    "runtime-main.js": "/transact-react-app/static/js/runtime-main.08fcfd28.js",
+    "runtime-main.js.map": "/transact-react-app/static/js/runtime-main.08fcfd28.js.map",
+    "static/js/2.1b34a8f7.chunk.js": "/transact-react-app/static/js/2.1b34a8f7.chunk.js",
+    "static/js/2.1b34a8f7.chunk.js.map": "/transact-react-app/static/js/2.1b34a8f7.chunk.js.map",
+    "index.html": "/transact-react-app/index.html",
+    "static/css/main.b6b57726.chunk.css.map": "/transact-react-app/static/css/main.b6b57726.chunk.css.map",
+    "static/js/2.1b34a8f7.chunk.js.LICENSE.txt": "/transact-react-app/static/js/2.1b34a8f7.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/transact-react-app/static/media/svg-1.6de59ab8.svg",
+    "static/media/svg-2.svg": "/transact-react-app/static/media/svg-2.5f11287c.svg",
+    "static/media/svg-3.2d3f2111.svg": "/transact-react-app/static/media/svg-3.2d3f2111.svg",
+    "static/media/svg-4.c44126dd.svg": "/transact-react-app/static/media/svg-4.c44126dd.svg",
+    "static/media/svg-5.dfbca26e.svg": "/transact-react-app/static/media/svg-5.dfbca26e.svg",
+    "static/media/svg-6.svg": "/transact-react-app/static/media/svg-6.3409dc91.svg",
+    "static/media/video.9fe1c882.mp4": "/transact-react-app/static/media/video.9fe1c882.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08fcfd28.js",
+    "static/js/2.1b34a8f7.chunk.js",
+    "static/css/main.b6b57726.chunk.css",
+    "static/js/main.9598af3b.chunk.js"
+  ]
+}
